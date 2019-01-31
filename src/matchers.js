@@ -47,7 +47,7 @@ function generateResults(pass, actualString, expected, verb, observed) {
 
   return {
     pass: pass,
-    message: messageArray.join(' ')
+    message: () => messageArray.join(' ')
   };
 }
 
