@@ -1,7 +1,7 @@
 {
   "name": "jasmine_dom_matchers",
-  "description": "dom matchers for Jasmine",
-  "main": "jasmine_dom_matchers.js",
+  "description": "dom matchers for the testing framework previously known as Jasmine",
+  "main": "src/jasmine_dom_matchers.js",
   "version": "1.4.0",
   "keywords": [
     "jasmine"
